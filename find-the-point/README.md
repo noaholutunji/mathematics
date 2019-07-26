@@ -9,8 +9,8 @@ The first line contains an integer, n, denoting the number of sets of points.
 Each of the n subsequent lines contains four space-separated integers describing the respective values of px, py, qx, and qy defining points p = (px,py) and q = (qx, qy).
 
 Constraints
-1 =< n =< 15
--100 =< px,py,qx,qy =< 100
+1 <= n <= 15
+-100 <= px,py,qx,qy <= 100
 
 Output Format
 For each pair of points p and q, print the corresponding respective values of rx and ry as two space-separated integers on a new line.
